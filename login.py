@@ -1,2 +1,2 @@
 def assessment():
-    pass
+    return "login"
