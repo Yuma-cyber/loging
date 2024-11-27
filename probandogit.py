@@ -1,2 +1,2 @@
 print("Hola mundo")
-var = 'login'
+var = [0,2,3]
